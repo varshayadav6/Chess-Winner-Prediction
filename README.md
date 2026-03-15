@@ -140,4 +140,4 @@ print("White Wins!" if prediction[0] == 1 else "Black Wins / Draw")
 ## 👤 Author
 
 **Kondi Varsha**  
-[GitHub](https://github.com/varshayadav6) | [LinkedIn](https://www.linkedin.com/in/kondi-varsha-22-08-2003-yadav/)
+[GitHub](https://github.com/Kondi-Varsha) | [LinkedIn](https://www.linkedin.com/in/kondi-varsha-22-08-2003-yadav/)
